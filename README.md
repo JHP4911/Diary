@@ -5,6 +5,7 @@ A dictionary is a book or electronic resource that lists the words of a language
 This mini-project aim to create a dictionary in Python which can retrieve definitions for user and ask 'did you mean this instead?' if user made a typo while entering the word, and if the word has more than one definition then retrieve them all.
 
 ## CODE:
+
 '''python
 import json
 from difflib import get_close_matches
@@ -38,4 +39,5 @@ if type(output) == list:
         print(item)
 else:
     print(output)
+
 '''
