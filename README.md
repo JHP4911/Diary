@@ -39,3 +39,6 @@ if type(output) == list:
 else:
     print(output)
 ``` 
+
+## OUTPUT:
+![output](https://user-images.githubusercontent.com/81489001/120492381-a7785c00-c3d7-11eb-960d-a84784abf586.PNG)
