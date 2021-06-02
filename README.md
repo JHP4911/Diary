@@ -6,7 +6,7 @@ This mini-project aim to create a dictionary in Python which can retrieve defini
 
 ## CODE:
 
-'''python
+''' python
 import json
 from difflib import get_close_matches
 
